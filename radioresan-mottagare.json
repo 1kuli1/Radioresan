@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "updated": "2026-10-12",
+  "receivers": [
+    {
+      "id": "twente",
+      "name": "Nederländerna – Twente",
+      "country": "Nederländerna",
+      "journey": "Nederländerna",
+      "url": "http://websdr.ewi.utwente.nl:8901/m.html",
+      "map": "https://www.openstreetmap.org/#map=8/52.24/6.85",
+      "status": "användartestad på Samsung-mobil"
+    },
+    {
+      "id": "sweden",
+      "name": "Sverige – inväntar ljudtest",
+      "country": "Sverige",
+      "journey": "Sverige förr och nu",
+      "url": "",
+      "map": "https://www.openstreetmap.org/#map=5/62/15",
+      "status": "ej verifierad"
+    },
+    {
+      "id": "europe",
+      "name": "Europa – inväntar ljudtest",
+      "country": "Europa",
+      "journey": "Europa runt",
+      "url": "",
+      "map": "https://www.openstreetmap.org/#map=4/53/13",
+      "status": "ej verifierad"
+    }
+  ]
+}
